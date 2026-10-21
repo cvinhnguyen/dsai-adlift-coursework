@@ -1,0 +1,9 @@
+campaign_id,campaign_name,channel,creative_type,budget_gbp,base_cvr,start_date,end_date
+C01,summer_sale,social_media,carousel,25000,0.12,2025-01-06,2025-03-23
+C02,summer_sale,search,text_ad,40000,0.2,2025-02-09,2025-04-06
+C03,new_arrivals,display,banner,15000,0.05,2025-01-26,2025-04-17
+C04,new_arrivals,video,pre_roll,30000,0.09,2025-01-06,2025-03-18
+C05,loyalty_promo,email,newsletter,10000,0.25,2025-01-13,2025-02-17
+C06,loyalty_promo,social_media,story_ad,20000,0.11,2025-02-01,2025-04-30
+C07,retargeting,display,dynamic,18000,0.15,2025-02-14,2025-04-30
+C08,brand_awareness,video,in_stream,35000,0.04,2025-02-13,2025-05-01
